@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Merel Smit @LeremTims
 - 👀 I’m interested in ... everything! 
-- 🌱 I’m currently learning: python, Web Development and Cyber Security.
+- 🌱 I’m currently learning: Python, Web Development and Cyber Security.
 - 💞️ I’m looking to collaborate on ... Don't know. I am still learning. 
 - 📫 How to reach me: DM
 
